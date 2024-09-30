@@ -5,7 +5,7 @@ I'm Thabiso Hlatshwayo, a passionate software engineer from Johannesburg. 🌍
 ## About Me
 
 - 🎓 I have a boot camp certificate in Software Engineering from Hyperion Development. A Systems Development certificate from Prophesy Training College
-- 💼 Currently working as a junior Full stack developer Absa.
+- 💼 Currently working as a junior full stack developer at Absa.
 - 🌱 I'm constantly learning and exploring new technologies and tools.
 
 ## Skills
