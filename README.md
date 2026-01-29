@@ -1,101 +1,18 @@
-# Hi there! 👋
-
-I'm Thabiso Hlatshwayo, a passionate software engineer from Johannesburg. 🌍
-
-## About Me
-
-I'm a dedicated software engineer with a deep passion for creating elegant solutions to complex problems. My journey in tech started with a curiosity about how things work, which quickly evolved into building applications that solve real-world challenges. What excites me most about software development is the endless opportunity to learn and grow.
-
-Currently, I'm focusing on bridging the gap between development and operations, exploring how to build more reliable, scalable, and efficient systems. I believe in writing clean, maintainable code and following best practices that make collaboration easier and projects more sustainable.
-
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers. I'm always excited to tackle new challenges and work on projects that have a positive impact.
+# 💫 About Me:
+Thabiso-007/README.md<br>Hi there! 👋<br>I'm Thabiso Hlatshwayo, a passionate software engineer from Johannesburg. 🌍<br><br>About Me<br>I'm a dedicated software engineer with a deep passion for creating elegant solutions to complex problems. My journey in tech started with a curiosity about how things work, which quickly evolved into building applications that solve real-world challenges. What excites me most about software development is the endless opportunity to learn and grow.<br><br>Currently, I'm focusing on bridging the gap between development and operations, exploring how to build more reliable, scalable, and efficient systems. I believe in writing clean, maintainable code and following best practices that make collaboration easier and projects more sustainable.<br><br>When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers. I'm always excited to tackle new challenges and work on projects that have a positive impact.<br><br>Technical Skills<br>💻 Programming Languages<br>Python, TypeScript, Java, JavaScript<br><br>🚀 Frontend Technologies<br>Vue, React, Angular, HTML5, CSS3<br><br>⚙️ Backend Technologies<br>Flask, Spring Boot, Express.js, Node.js<br><br>☁️ Cloud & DevOps<br>AWS Services: EC2, RDS, S3, VPC, VPS, IAM, Lambda, CloudFormation, CloudWatch<br><br>Containerization: Docker, Docker Compose<br><br>Orchestration: Kubernetes, Helm Charts<br><br>CI/CD: GitHub Actions, Jenkins, ArgoCD<br><br>Infrastructure as Code: Terraform, AWS CloudFormation<br><br>Monitoring & Management: Rancher, Lens IDE, Prometheus, Grafana<br><br>Networking: Ingress Controllers, Load Balancers, VPC Configuration<br><br>🗄️ Database & Data Migration<br>AWS Database Migration Service (DMS)<br><br>PostgreSQL, MySQL, MongoDB<br><br>RDS Management & Optimization<br><br>Data pipeline development<br><br>🛠️ Development Tools<br>VS Code, IntelliJ IDEA, GitHub, Git, Postman, Swagger<br><br>Projects<br>🌟 e-commerce API<br>A comprehensive REST API for an E-commerce store built with Express.js and PostgreSQL. Features user authentication, product management, shopping cart, and order processing.<br><br>🚗 personal website<br>A portfolio website showcasing my achievements, skills, and completed projects. Built with modern frontend technologies and deployed on Vercel.<br><br>⚙️ Weather app<br>A weather forecasting application that provides real-time weather data and forecasts using external weather APIs with a clean, responsive UI.<br><br>🔧 DevOps & Infrastructure Projects<br>Kubernetes Cluster Setup: Configured and managed multi-node K8s clusters with ingress controllers<br><br>CI/CD Pipeline: Implemented GitHub Actions workflows for automated testing and deployment<br><br>AWS Infrastructure: Deployed and managed applications using EC2, RDS, and load balancers<br><br>Containerized Applications: Dockerized full-stack applications with optimized Dockerfiles<br><br>Certifications & Learning<br>AWS Cloud Practitioner (In Progress)<br><br>Kubernetes and Docker Mastery<br><br>DevOps Fundamentals<br><br>GitHub Actions & CI/CD Pipelines<br><br>Connect with Me<br>📧 Email: thabiso.hlatshwayo24@gmail.com<br><br>💼 LinkedIn: Thabiso Hlatshwayo<br><br>🐦 Twitter: @thabiso_dev<br><br>🐙 GitHub: [Your GitHub Profile Link]<br><br>Currently Exploring<br>Advanced Kubernetes patterns (Operators, Custom Resources)<br><br>AWS Advanced Networking<br><br>Service Mesh implementations (Istio, Linkerd)<br><br>Infrastructure monitoring and alerting systems<br><br>Cloud security best practices<br><br>Feel free to reach out if you have any questions, want to collaborate, or just want to chat about tech! 😊
 
 
-## Technical Skills
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thabiso.timzo.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thabiso-hlatshwayo-8a4079198) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Thabiso Hlatshwayo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thabiso.hlatshwayo24@gmail.com) 
 
-### 💻 Programming Languages
-Python, TypeScript, Java, JavaScript
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thabiso-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Thabiso-007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thabiso-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🚀 Frontend Technologies
-Vue, React, Angular, HTML5, CSS3
+---
+[![](https://visitcount.itsvg.in/api?id=Thabiso-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ⚙️ Backend Technologies
-Flask, Spring Boot, Express.js, Node.js
-
-### ☁️ Cloud & DevOps
-**AWS Services:** EC2, RDS, S3, VPC, VPS, IAM, Lambda, CloudFormation, CloudWatch
-
-**Containerization:** Docker, Docker Compose
-
-**Orchestration:** Kubernetes, Helm Charts
-
-**CI/CD:** GitHub Actions, Jenkins, ArgoCD
-
-**Infrastructure as Code:** Terraform, AWS CloudFormation
-
-**Monitoring & Management:** Rancher, Lens IDE, Prometheus, Grafana
-
-**Networking:** Ingress Controllers, Load Balancers, VPC Configuration
-
-### 🗄️ Database & Data Migration
-AWS Database Migration Service (DMS)
-
-PostgreSQL, MySQL, MongoDB
-
-RDS Management & Optimization
-
-Data pipeline development
-
-### 🛠️ Development Tools
-VS Code, IntelliJ IDEA, GitHub, Git, Postman, Swagger
-
-## Projects
-
-### 🌟 e-commerce API
-A comprehensive REST API for an E-commerce store built with Express.js and PostgreSQL. Features user authentication, product management, shopping cart, and order processing.
-
-### 🚗 personal website
-A portfolio website showcasing my achievements, skills, and completed projects. Built with modern frontend technologies and deployed on Vercel.
-
-### ⚙️ Weather app
-A weather forecasting application that provides real-time weather data and forecasts using external weather APIs with a clean, responsive UI.
-
-### 🔧 DevOps & Infrastructure Projects
-**Kubernetes Cluster Setup:** Configured and managed multi-node K8s clusters with ingress controllers
-
-**CI/CD Pipeline:** Implemented GitHub Actions workflows for automated testing and deployment
-
-**AWS Infrastructure:** Deployed and managed applications using EC2, RDS, and load balancers
-
-**Containerized Applications:** Dockerized full-stack applications with optimized Dockerfiles
-
-## Certifications & Learning
-AWS Cloud Practitioner (In Progress)
-
-Kubernetes and Docker Mastery
-
-DevOps Fundamentals
-
-GitHub Actions & CI/CD Pipelines
-
-## Connect with Me
-📧 Email: thabiso.hlatshwayo24@gmail.com
-
-💼 LinkedIn: Thabiso Hlatshwayo
-
-🐦 Twitter: @thabiso_dev
-
-🐙 GitHub: [Your GitHub Profile Link]
-
-## Currently Exploring
-Advanced Kubernetes patterns (Operators, Custom Resources)
-
-AWS Advanced Networking
-
-Service Mesh implementations (Istio, Linkerd)
-
-Infrastructure monitoring and alerting systems
-
-Cloud security best practices
-
-Feel free to reach out if you have any questions, want to collaborate, or just want to chat about tech! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
