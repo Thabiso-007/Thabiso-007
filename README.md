@@ -46,6 +46,7 @@ I’m always open to collaboration and impactful projects 🚀
 | Spring Boot |
 | Express.js |
 | Node.js |
+| Django  |
 
 ---
 
