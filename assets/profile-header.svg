@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Thabiso Hlatshwayo — Software Engineer</title>
+  <desc id="description">Full-stack development, cloud and DevOps. A teal TH monogram sits beside the name on a dark navy background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#162638"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <path d="M744 0V74H824V150H900V226H980V300M876 0V74H956V150H1032V226H1112V300M1008 0V74H1088V150H1164V226H1200" stroke="#334155" stroke-opacity=".4" stroke-width="1.5"/>
+  <circle cx="824" cy="74" r="4" fill="#2DD4BF" fill-opacity=".65"/>
+  <circle cx="1032" cy="226" r="4" fill="#60A5FA" fill-opacity=".65"/>
+  <rect x="56" y="61" width="40" height="4" rx="2" fill="#2DD4BF"/>
+  <text x="112" y="69" fill="#5EEAD4" font-family="sans-serif" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE ENGINEER</text>
+  <text x="54" y="145" fill="#F8FAFC" font-family="sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Thabiso Hlatshwayo</text>
+  <text x="57" y="192" fill="#CBD5E1" font-family="sans-serif" font-size="23">Full-stack development · Cloud &amp; DevOps</text>
+  <text x="57" y="249" fill="#94A3B8" font-family="sans-serif" font-size="18">Johannesburg, South Africa</text>
+  <rect x="947" y="76" width="172" height="148" rx="24" fill="#0F172A" fill-opacity=".8" stroke="#2DD4BF" stroke-opacity=".45" stroke-width="1.5"/>
+  <text x="971" y="171" fill="#5EEAD4" font-family="sans-serif" font-size="72" font-weight="700" letter-spacing="-4">TH<tspan fill="#60A5FA">.</tspan></text>
+</svg>

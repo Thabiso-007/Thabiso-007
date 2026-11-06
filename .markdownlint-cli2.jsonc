@@ -1,0 +1,38 @@
+{
+  // Check the profile and contribution documentation, never installed packages.
+  "globs": ["**/*.md", "!node_modules/**"],
+  "config": {
+    "default": true,
+    // Long links and skill tables should not require artificial line breaks.
+    "MD013": false,
+    // GitHub README features such as collapsible statistics need these tags.
+    "MD033": {
+      "allowed_elements": ["details", "summary", "picture", "source", "img", "br"],
+    },
+    "MD024": {
+      "siblings_only": true,
+    },
+  },
+  "overrides": [
+    {
+      // The accessible profile banner precedes the document's text heading.
+      "filter": ["README.md"],
+      "combine": "merge",
+      "config": {
+        "MD041": {
+          "allow_preamble": true,
+        },
+      },
+    },
+    {
+      // GitHub inserts the pull request title above this template.
+      "filter": [".github/pull_request_template.md"],
+      "combine": "merge",
+      "config": {
+        "MD041": {
+          "level": 2,
+        },
+      },
+    },
+  ],
+}

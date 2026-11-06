@@ -1,0 +1,24 @@
+{
+  "name": "thabiso-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source for Thabiso Hlatshwayo's GitHub profile README.",
+  "author": "Thabiso Hlatshwayo",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "markdownlint-cli2",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "check": "npm run format:check && npm run lint"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "0.24.0",
+    "prettier": "3.9.10"
+  },
+  "overrides": {
+    "katex": "0.19.1",
+    "re2js": "2.9.1"
+  }
+}
